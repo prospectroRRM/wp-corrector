@@ -1,8 +1,8 @@
 <?php
 /*
-	Plugin Name: Test Plugin
-	Description: Test git wp plugin
-	Version: 0.0.1
+	Plugin Name: WP corrector
+	Description: WP corrector (git)
+	Version: 0.0.3
 	Author: Трубин Евгений
 */
 if( ! class_exists( 'Smashing_Updater' ) ){
