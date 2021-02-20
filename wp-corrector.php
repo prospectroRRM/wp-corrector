@@ -2,7 +2,7 @@
 /*
 	Plugin Name: WP corrector
 	Description: WP corrector (git)
-	Version: 0.0.4
+	Version: 0.0.5
 	Author: Трубин Евгений
 */
 if (!class_exists('Smashing_Updater')) {
